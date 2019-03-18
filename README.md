@@ -12,7 +12,7 @@ Release | Notes
 
 Project | Aras
 --------|------
-[v1.0.0](https://github.com/ArasLabs/ecr-impact-matrix/releases/tag/v1.0.0) | 11.0 SP12
+[v1.0.0](https://github.com/ArasLabs/ecr-impact-matrix/releases/tag/v1.0.0) | 11.0 SP12+ with PE 11.0 R4
 
 ## Installation
 
