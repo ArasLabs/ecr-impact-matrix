@@ -54,7 +54,7 @@ Project | Aras
 
 You are now ready to login to Aras and check out the ECR Impact Matrix.
 
-## Usage
+<!-- ## Usage -->
 
 
 
