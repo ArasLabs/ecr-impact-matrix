@@ -1,0 +1,5 @@
+<imports>
+  <package name="com.aras.innovator.solution.PLM" path="PLM\Import">
+    <dependson name="com.aras.innovator.solution.ApplicationCore" />
+  </package>
+</imports>
